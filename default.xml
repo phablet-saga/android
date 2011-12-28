@@ -264,5 +264,5 @@
   <project path="hardware/libhardware_legacy" name="Andromadus/android_hardware_libhardware_legacy" remote="privategh" revision="ics" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
   
-  <project path="android" name="Andromadus/android_cm" remote="androamdus" />
+  <project path="android" name="Andromadus/android_cm" remote="privategh" />
 </manifest>
