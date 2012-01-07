@@ -208,7 +208,6 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -250,18 +249,19 @@
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="ics"/>
   <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="privategh" revision="ics"/>
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="privategh" revision="ics" />
-  <project path="external/webkit" name = "Andromadus/android_external_webkit" remote="privategh" revision="ics" />
+  <project path="external/webkit" name="Andromadus/android_external_webkit" remote="privategh" revision="ics" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="privategh" revision="ics" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="privategh" revision="ics" />
   <project path="hardware/libhardware_legacy" name="Andromadus/android_hardware_libhardware_legacy" remote="privategh" revision="ics" />
   <project path="hardware/msm7k" name="Andromadus/android_hardware_msm7k" remote="privategh" revision="ics"/>
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="privategh" revision="ics" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
-  <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
-  <project path="packages/apps/CMSettings/" name = "Andromadus/android_packages_apps_CMSettings" remote="privategh" revision="ics" />
-  <project path="packages/apps/CMStats" name = "Andromadus/android_packages_apps_CMStats" remote="privategh" revision="ics" />
+  <project path="packages/apps/CMSettings/" name="Andromadus/android_packages_apps_CMSettings" remote="privategh" revision="ics" />
+  <project path="packages/apps/CMStats" name="Andromadus/android_packages_apps_CMStats" remote="privategh" revision="ics" />
+  <project path="packages/apps/Contacts" name="Andromadus/android_packages_apps_Contacts" remote="privategh" revision="ics" />
+  <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
-  <project path="prebuilt" name = "Andromadus/android_prebuilt" remote="privategh" revision="ics" />
+  <project path="prebuilt" name="Andromadus/android_prebuilt" remote="privategh" revision="ics" />
   <project path="system/core" name="Andromadus/android_system_core" remote="privategh" revision="ics" />
   <project path="vendor/cm" name="Andromadus/android_vendor_cm" remote="privategh" revision="ics" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics"/>
