@@ -256,7 +256,7 @@
   <project path="hardware/msm7k" name="Andromadus/android_hardware_msm7k" remote="privategh" revision="ics"/>
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="privategh" revision="ics" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
-  <project path="packages/apps/CMSettings/" name="Andromadus/android_packages_apps_CMSettings" remote="privategh" revision="ics" />
+  <project path="packages/apps/CMSettings" name="Andromadus/android_packages_apps_CMSettings" remote="privategh" revision="ics" />
   <project path="packages/apps/CMStats" name="Andromadus/android_packages_apps_CMStats" remote="privategh" revision="ics" />
   <project path="packages/apps/Contacts" name="Andromadus/android_packages_apps_Contacts" remote="privategh" revision="ics" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
