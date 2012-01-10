@@ -208,6 +208,7 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
+  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -259,7 +260,7 @@
   <project path="packages/apps/CMSettings" name="Andromadus/android_packages_apps_CMSettings" remote="privategh" revision="ics" />
   <project path="packages/apps/CMStats" name="Andromadus/android_packages_apps_CMStats" remote="privategh" revision="ics" />
   <project path="packages/apps/Contacts" name="Andromadus/android_packages_apps_Contacts" remote="privategh" revision="ics" />
-  <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
+  <project path="packages/apps/Trebuchet" name="Andromadus/android_packages_apps_Trebuchet" remote="privategh" revision="ics" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
   <project path="prebuilt" name="Andromadus/android_prebuilt" remote="privategh" revision="ics" />
   <project path="system/core" name="Andromadus/android_system_core" remote="privategh" revision="ics" />
