@@ -112,6 +112,7 @@
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
   <project path="external/markdown" name="platform/external/markdown" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
+  <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/mksh" name="platform/external/mksh" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -124,6 +125,7 @@
   <project path="external/oauth" name="CyanogenMod/android_external_oauth" />
   <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
+  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" />
   <project path="external/oprofile" name="CyanogenMod/android_external_oprofile" />
   <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/ping" name="CyanogenMod/android_external_ping" />
@@ -258,7 +260,7 @@
   <project path="packages/apps/CMSettings" name="Andromadus/android_packages_apps_CMSettings" remote="privategh" revision="ics" />
   <project path="packages/apps/CMStats" name="Andromadus/android_packages_apps_CMStats" remote="privategh" revision="ics" />
   <project path="packages/apps/Contacts" name="Andromadus/android_packages_apps_Contacts" remote="privategh" revision="ics" />
-  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="privategh" revision="ics" />
+  <project path="packages/apps/Mms" name="Andromadus/android_packages_apps_Mms" remote="privategh" revision="ics" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
   <project path="packages/apps/Trebuchet" name="Andromadus/android_packages_apps_Trebuchet" remote="privategh" revision="ics" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
