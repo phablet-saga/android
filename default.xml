@@ -247,7 +247,7 @@
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="ics"/>
   <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="privategh" revision="ics"/>
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="privategh" revision="ics" />
-  <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
+  <project path="external/freetype" name="Andromadus/android_external_freetype" />
   <project path="external/icu4c" name="Andromadus/android_external_icu4c" />
   <project path="external/skia" name="Andromadus/android_external_skia" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="privategh" revision="ics" />
