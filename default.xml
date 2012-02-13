@@ -70,7 +70,7 @@
   <project path="external/expat" name="CyanogenMod/android_external_expat" />
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
-  <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
+  <project path="external/flac" name="CyanogenMod/android_external_flac" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
   <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" />
   <project path="external/giflib" name="CyanogenMod/android_external_giflib" />
