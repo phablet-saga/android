@@ -254,7 +254,6 @@
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="privategh" revision="ics" />
   <project path="hardware/libhardware_legacy" name="Andromadus/android_hardware_libhardware_legacy" remote="privategh" revision="ics" />
   <project path="hardware/msm7k" name="Andromadus/android_hardware_msm7k" remote="privategh" revision="ics"/>
-  <project path="hardware/qcom/camera" name="Andromadus/android_hardware_qcom_camera" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="privategh" revision="ics" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" />
