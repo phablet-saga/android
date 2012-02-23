@@ -264,6 +264,8 @@
   <project path="prebuilt" name="Andromadus/android_prebuilt" remote="privategh" revision="ics" />
   <project path="system/core" name="Andromadus/android_system_core" remote="privategh" revision="ics" />
   <project path="vendor/cm" name="Andromadus/android_vendor_cm" remote="privategh" revision="ics" />
+  <project path="vendor/qcom/opensource/omx/mm-core" name="Andromadus/android_vendor_qcom_opensource_omx_mm-core" />
+  <project path="vendor/qcom/opensource/omx/mm-video" name="Andromadus/android_vendor_qcom_opensource_omx_mm-video" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics"/>
  
   <project path="android" name="Andromadus/android_cm" remote="privategh" />
