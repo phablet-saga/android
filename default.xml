@@ -263,6 +263,7 @@
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
   <project path="prebuilt" name="Andromadus/android_prebuilt" remote="privategh" revision="ics" />
   <project path="system/core" name="Andromadus/android_system_core" remote="privategh" revision="ics" />
+  <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="privategh" />
   <project path="vendor/cm" name="Andromadus/android_vendor_cm" remote="privategh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="Andromadus/android_vendor_qcom_opensource_omx_mm-core" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="Andromadus/android_vendor_qcom_opensource_omx_mm-video" />
