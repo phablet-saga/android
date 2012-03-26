@@ -86,6 +86,7 @@
   <project path="external/javassist" name="platform/external/javassist" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
   <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
+  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg-turbo" />
   <project path="external/jsilver" name="platform/external/jsilver" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
@@ -247,7 +248,6 @@
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="privategh" revision="ics" />
   <project path="external/freetype" name="Andromadus/android_external_freetype" />
   <project path="external/icu4c" name="Andromadus/android_external_icu4c" />
-  <project path="external/jpeg" name="Andromadus/android_external_jpeg" />
   <project path="external/skia" name="Andromadus/android_external_skia" />
   <project path="external/webkit" name="Andromadus/android_external_webkit" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="privategh" revision="ics" />
