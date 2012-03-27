@@ -211,6 +211,7 @@
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
+  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
@@ -241,6 +242,8 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
+  <project path="vendor/qcom/opensource/omx/mm-core" name="Cyanogenmod/android_vendor_qcom_opensource_omx_mm-core" />
+  <project path="vendor/qcom/opensource/omx/mm-video" name="Cyanogenmod/android_vendor_qcom_opensource_omx_mm-video" />
 
   <project path="dalvik" name="Andromadus/android_dalvik" />
   <project path="development" name="Andromadus/android_development" />
@@ -260,14 +263,11 @@
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" />
   <project path="packages/apps/GooManager" name="solarnz/GooManager_prebuilt" remote="privategh" revision="master" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
-  <project path="packages/apps/Torch" name="Andromadus/android_packages_apps_Torch" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
   <project path="prebuilt" name="Andromadus/android_prebuilt" remote="privategh" revision="ics" />
   <project path="system/core" name="Andromadus/android_system_core" remote="privategh" revision="ics" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="privategh" />
   <project path="vendor/cm" name="Andromadus/android_vendor_cm" remote="privategh" revision="ics" />
-  <project path="vendor/qcom/opensource/omx/mm-core" name="Andromadus/android_vendor_qcom_opensource_omx_mm-core" />
-  <project path="vendor/qcom/opensource/omx/mm-video" name="Andromadus/android_vendor_qcom_opensource_omx_mm-video" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics"/>
  
   <project path="android" name="Andromadus/android" remote="privategh" />
