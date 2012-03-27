@@ -242,8 +242,8 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  <project path="vendor/qcom/opensource/omx/mm-core" name="Cyanogenmod/android_vendor_qcom_opensource_omx_mm-core" />
-  <project path="vendor/qcom/opensource/omx/mm-video" name="Cyanogenmod/android_vendor_qcom_opensource_omx_mm-video" />
+  <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
+  <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
 
   <project path="dalvik" name="Andromadus/android_dalvik" />
   <project path="development" name="Andromadus/android_development" />
