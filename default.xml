@@ -270,6 +270,5 @@
   <project path="vendor/qcom/opensource/omx/mm-core" name="Andromadus/android_vendor_qcom_opensource_omx_mm-core" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="Andromadus/android_vendor_qcom_opensource_omx_mm-video" />
 
- 
   <project path="android" name="Andromadus/android" remote="privategh" />
 </manifest>
