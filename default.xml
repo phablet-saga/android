@@ -260,7 +260,7 @@
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="privategh" revision="ics" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" />
-  <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" />
+  <project path="packages/apps/FM" name="Andromadus/android_packages_apps_FM" />
   <project path="packages/apps/GooManager" name="solarnz/GooManager_prebuilt" remote="privategh" revision="master" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
