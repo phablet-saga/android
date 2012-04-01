@@ -238,7 +238,6 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="CyanogenMod/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
@@ -265,6 +264,7 @@
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="privategh" revision="ics" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
   <project path="prebuilt" name="Andromadus/android_prebuilt" remote="privategh" revision="ics" />
+  <project path="system/core" name="Andromadus/android_system_core" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="privategh" />
   <project path="vendor/cm" name="Andromadus/android_vendor_cm" remote="privategh" revision="ics" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics"/>
