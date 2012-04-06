@@ -270,7 +270,7 @@
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics"/>
   <project path="vendor/qcom/opensource/omx/mm-core" name="Andromadus/android_vendor_qcom_opensource_omx_mm-core" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="Andromadus/android_vendor_qcom_opensource_omx_mm-video" />
-  <project path="vendor/qcom/opensource/v8" name="Andromadus/android_vendor_qcom_opensource_v8" />
+  <project path="vendor/qcom/opensource/v8" name="Andromadus/android_vendor_qcom_opensource_v8" revision="master" />
 
   <project path="android" name="Andromadus/android" remote="privategh" />
 </manifest>
