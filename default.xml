@@ -262,7 +262,6 @@
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="privategh" revision="ics" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
   <project path="kernel/htc/msm7x30" name="Andromadus/htc-kernel-msm7x30" remote="privategh" revision="android-msm-2.6.35-ics-bfs" />
-  <project path="kernel/htc/msm7x30-3.0" name="Flemmard/htc7x30-3.0" remote="privategh" revision="master" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" />
   <project path="packages/apps/FM" name="Andromadus/android_packages_apps_FM" />
   <project path="packages/apps/GooManager" name="solarnz/GooManager_prebuilt" remote="privategh" revision="master" />
