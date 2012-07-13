@@ -179,7 +179,6 @@
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
-  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
@@ -271,5 +270,11 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="jb"/>
+  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="privategh" revision="ics"/>
+  <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="privategh" revision="jb" />
+  <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" revision="caf" />
+  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="bcmdhd"/>
+
+  <project path="android" name="Andromadus/android" />
 </manifest>
