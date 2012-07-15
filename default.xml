@@ -313,16 +313,16 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
 
-  <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="private" revision="ics"/>
-  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="private" revision="jb"/>
+  <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="private" revision="jb" />
+  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="private" revision="jb" />
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="private" revision="jb" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="private" revision="jellybean" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="private" revision="jb" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="private" revision="caf" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jb" />
   <project path="hardware/ril" name="Andromadus/android_hardware_ril" remote="private" revision="jellybean" />
-  <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="ics"/>
-  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="private" revision="bcmdhd"/>
+  <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="private" revision="jb" />
+  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="private" revision="jb" />
   
   <project path="android" name="Andromadus/android" />
 </manifest>
