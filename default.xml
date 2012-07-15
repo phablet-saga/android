@@ -213,7 +213,6 @@
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
-  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
@@ -321,6 +320,7 @@
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="private" revision="jb" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="private" revision="caf" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jb" />
+  <project path="hardware/ril" name="Andromadus/android_hardware_ril" remote="private" revision="jellybean" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="ics"/>
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="private" revision="bcmdhd"/>
   
