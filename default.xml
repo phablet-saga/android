@@ -18,8 +18,8 @@
   <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-
-  <project path="android" name="CyanogenMod/android" />
+  
+  <project path="android" name="Andromadus/android" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
@@ -324,5 +324,4 @@
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="private" revision="jb" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="private" revision="jb" />
   
-  <project path="android" name="Andromadus/android" />
 </manifest>
