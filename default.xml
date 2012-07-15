@@ -318,8 +318,9 @@
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="private" revision="jb" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="private" revision="jellybean" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="private" revision="jb" />
+  <project path="hardware/msm7k" name="Andromadus/android_hardware_msm7k" remote="private" revision="jellybean"/>
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="private" revision="caf" />
-  <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jb" />
+  <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="private" revision="jellybean" />
   <project path="hardware/ril" name="Andromadus/android_hardware_ril" remote="private" revision="jellybean" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="private" revision="jb" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="private" revision="jb" />
