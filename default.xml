@@ -316,7 +316,7 @@
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" revision="jb" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" revision="jellybean" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" revision="jellybean" />
-  <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" revision="jb" />
+  <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="Andromadus/android_hardware_libhardware_legacy" revision="jellybean" />
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" revision="jellybean" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" revision="caf" />
