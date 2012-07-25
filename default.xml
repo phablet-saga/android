@@ -324,6 +324,7 @@
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jellybean" />
   <project path="hardware/ril" name="Andromadus/android_hardware_ril" revision="jellybean" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" revision="jellybean" />
+  <project path="packages/providers/MediaProvider" name="Andromadus/android_packages_providers_MediaProvider" revision="jellybean" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" revision="jb" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" revision="jb" />
   
