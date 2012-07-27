@@ -264,7 +264,6 @@
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" />
-  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
@@ -329,6 +328,7 @@
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jellybean" />
   <project path="hardware/ril" name="Andromadus/android_hardware_ril" revision="jellybean" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" revision="jellybean" />
+  <project path="packages/providers/MediaProvider" name="Andromadus/android_packages_providers_MediaProvider" revision="jellybean" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" revision="jb" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" revision="jb" />
   
