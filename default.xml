@@ -328,6 +328,8 @@
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" revision="jellybean" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jellybean" />
   <project path="hardware/ril" name="Andromadus/android_hardware_ril" revision="jellybean" />
+  <project path="kernel/hp/tenderloin" name="Andromadus/hp-kernel-tenderloin" revision="jellybean" />
+  <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" revision="andromadus" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" revision="jellybean" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" revision="jellybean" />
   <project path="packages/providers/MediaProvider" name="Andromadus/android_packages_providers_MediaProvider" revision="jellybean" />
