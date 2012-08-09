@@ -332,6 +332,7 @@
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" revision="jellybean" />
   <project path="packages/providers/MediaProvider" name="Andromadus/android_packages_providers_MediaProvider" revision="jellybean" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" revision="jb" />
+  <project path="vendor/hp/tenderloin" name="Andromadus/proprietary_hp_tenderloin" revision="jb" />
   <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" revision="master" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" revision="jb" />
   
