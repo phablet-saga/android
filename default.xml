@@ -334,6 +334,7 @@
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" revision="jellybean" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" revision="jellybean" />
   <project path="packages/providers/MediaProvider" name="Andromadus/android_packages_providers_MediaProvider" revision="jellybean" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" revision="jellybean" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" revision="jb" />
   <project path="vendor/hp/tenderloin" name="Andromadus/proprietary_hp_tenderloin" revision="jb" />
   <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" revision="master" />
