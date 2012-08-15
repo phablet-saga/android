@@ -211,6 +211,7 @@
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
+  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
@@ -328,7 +329,6 @@
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" revision="jellybean" />
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" revision="jellybean" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jellybean" />
-  <project path="hardware/ril" name="Andromadus/android_hardware_ril" revision="jellybean" />
   <project path="kernel/hp/tenderloin" name="Andromadus/hp-kernel-tenderloin" revision="jellybean" />
   <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" revision="andromadus" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" revision="jellybean" />
