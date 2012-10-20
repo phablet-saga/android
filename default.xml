@@ -229,6 +229,7 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
+  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
@@ -340,7 +341,6 @@
   <project path="kernel/hp/tenderloin" name="Andromadus/hp-kernel-tenderloin" revision="jellybean" />
   <project path="kernel/htc/KangBanged-7x30" name="KangBangKreations/KangBanged-7x30" revision="kb-stable" />
   <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" revision="andromadus" />
-  <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" revision="jellybean" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" revision="jellybean" />
   <project path="packages/providers/MediaProvider" name="Andromadus/android_packages_providers_MediaProvider" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" revision="jellybean" />
