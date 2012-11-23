@@ -324,7 +324,6 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
-  <project path="system/vold" name="platform/system/vold" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
@@ -351,6 +350,7 @@
   <project path="packages/apps/Contacts" name="Andromadus/android_packages_apps_Contacts" remote="github" revision="jb4.2" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="jb4.2" />
   <project path="external/chromium" name="Andromadus/android_external_chromium" remote="github" revision="jb4.2" />
+  <project path="system/vold" name="Andromadus/android_system_vold" remote="github" revision="jb4.2" />
 
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="mr1-staging" />
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="mr1-staging" />
