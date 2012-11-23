@@ -59,7 +59,6 @@
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
-  <project path="external/chromium" name="platform/external/chromium" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" />
   <project path="external/clang" name="platform/external/clang" />
@@ -323,7 +322,6 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
@@ -349,8 +347,11 @@
   <project path="frameworks/opt/telephony" name="Andromadus/frameworks_opt_telephony" remote="github" revision="jb4.2" />
   <project path="external/webkit" name="Andromadus/android_external_webkit" remote="github" revision="jb4.2" />
   <project path="system/core" name="Andromadus/android_system_core" remote="github" revision="jb4.2" />
+  <project path="system/extras" name="Andromadus/android_system_extras" remote="github" revision="jb4.2" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" remote="github" revision="jb4.2" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="jb4.2" />
+  <project path="external/chromium" name="Andromadus_android_external_chromium" remote="github" revision="jb4.2" />
+
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="mr1-staging" />
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="mr1-staging" />
 
