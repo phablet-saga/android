@@ -349,7 +349,7 @@
   <project path="build" name="Andromadus/android_build" remote="github" revision="jb4.2" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" remote="github" revision="jb4.2" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="github" revision="jb4.2" />
-  <project path="frameworks/native" name=Andromadus/android_frameworks_native" remote="github" revision="jb4.2" />
+  <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="github" revision="jb4.2" />
   <project path="frameworks/opt/telephony" name="Andromadus/frameworks_opt_telephony" remote="github" revision="jb4.2" />
   <project path="external/webkit" name="Andromadus/android_external_webkit" remote="github" revision="jb4.2" >
   <project path="system/core" name="Andromadus/android_system_core" remote="github" revision="jb4.2" />
