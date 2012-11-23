@@ -331,7 +331,7 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
-  <project path="device/common" name="android_device_common" remote="github" revision="jb4.2" />
+  <project path="device/common" name="Andromadus/android_device_common" remote="github" revision="jb4.2" />
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="github" revision="jb4.2" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="github" revision="jb" />
   <project path="device/htc/saga" name="Andromadus/android_device_htc_saga" remote="github" revision="jb4.2" />
