@@ -333,13 +333,13 @@
   <project path="tools/motodev" name="platform/tools/motodev" />
 
   <project path="device/common" name="android_device_common" remote="github" revision="jb4.2" />
-  <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="github" revision="jb4.2"/>
-  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="github" revision="jb"/>
-  <project path="device/htc/saga" name="Andromadus/android_device_htc_saga" remote="github" revision="jb4.2"/>
-  <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" remote="github" revision="master"/>
-  <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="github" revision="jb"/>
-  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="github" revision="jb4.2"/>
-  <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="jb"/>
+  <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="github" revision="jb4.2" />
+  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="github" revision="jb" />
+  <project path="device/htc/saga" name="Andromadus/android_device_htc_saga" remote="github" revision="jb4.2" />
+  <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" remote="github" revision="master" />
+  <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="github" revision="jb" />
+  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="github" revision="jb4.2" />
+  <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="jb" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="github" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="Andromadus/android_hardware_libhardware_legacy" remote="github" revision="jellybean" />
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" remote="github" revision="jellybean" />
@@ -351,7 +351,7 @@
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="github" revision="jb4.2" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="github" revision="jb4.2" />
   <project path="frameworks/opt/telephony" name="Andromadus/frameworks_opt_telephony" remote="github" revision="jb4.2" />
-  <project path="external/webkit" name="Andromadus/android_external_webkit" remote="github" revision="jb4.2" >
+  <project path="external/webkit" name="Andromadus/android_external_webkit" remote="github" revision="jb4.2" />
   <project path="system/core" name="Andromadus/android_system_core" remote="github" revision="jb4.2" />
 
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="mr1-staging" />
