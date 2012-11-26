@@ -259,7 +259,6 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -347,6 +346,7 @@
   <project path="system/extras" name="Andromadus/android_system_extras" remote="github" revision="jb4.2" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" remote="github" revision="jb4.2" />
   <project path="packages/apps/Contacts" name="Andromadus/android_packages_apps_Contacts" remote="github" revision="jb4.2" />
+  <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="github" revision="jb4.2" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="jb4.2" />
   <project path="external/chromium" name="Andromadus/android_external_chromium" remote="github" revision="jb4.2" />
   <project path="external/wpa_supplicant_8" name="Andromadus/android_external_wpa_supplicant_8" remote="github" revision="jb4.2" />
