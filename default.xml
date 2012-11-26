@@ -221,7 +221,6 @@
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" />
-  <project path="hardware/qcom/media" name="platform/hardware/qcom/media" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
   <project path="hardware/qcom/power" name="platform/hardware/qcom/power" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" />
@@ -241,7 +240,6 @@
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
@@ -336,6 +334,7 @@
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" remote="github" revision="jellybean" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="github" revision="jb4.2" />
+  <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="github" revision="jb4.2" />
   <project path="hardware/ril" name="Andromadus/android_hardware_ril" remote="github" revision="jb4.2" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" remote="github" revision="jb4.2" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="github" revision="jb4.2" />
@@ -346,6 +345,7 @@
   <project path="system/extras" name="Andromadus/android_system_extras" remote="github" revision="jb4.2" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" remote="github" revision="jb4.2" />
   <project path="packages/apps/Contacts" name="Andromadus/android_packages_apps_Contacts" remote="github" revision="jb4.2" />
+  <project path="packages/apps/DeskClock" name="Andromadus/android_packages_apps_DeskClock" remote="github" revision="jb4.2" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" remote="github" revision="jb4.2" />
   <project path="vendor/andromadus" name="Andromadus/android_vendor_andromadus" remote="github" revision="jb4.2" />
   <project path="external/chromium" name="Andromadus/android_external_chromium" remote="github" revision="jb4.2" />
