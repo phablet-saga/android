@@ -354,6 +354,6 @@
 
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="mr1-staging" />
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="mr1-staging" />
-  <project path="system/su" name="CyanogenMod/android_external_busybox" remote="github" revision="mr1-staging" />
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="mr1-staging" />
 
 </manifest>
