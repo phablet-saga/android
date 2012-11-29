@@ -336,6 +336,7 @@
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="github" revision="jb4.2" />
   <project path="hardware/ril" name="Andromadus/android_hardware_ril" remote="github" revision="jb4.2" />
+  <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" remote="github" revision="andromadus" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" remote="github" revision="jb4.2" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="github" revision="jb4.2" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="github" revision="jb4.2" />
