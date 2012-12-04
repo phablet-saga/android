@@ -371,7 +371,7 @@
   <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="github" revision="cm10.1" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" remote="github" revision="cm10.1" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="github" revision="cm10.1" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" remote="github" revision="cm10.1" />
+  <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="github" revision="cm10.1" />
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" remote="github" revision="jellybean" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="github" revision="jb4.2" />
