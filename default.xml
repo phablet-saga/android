@@ -13,6 +13,7 @@
 
   <default revision="refs/heads/jellybean"
            remote="github"
+           sync-c="true"
            sync-j="4" />
 
   <project path="build" name="Andromadus/android_build">
@@ -330,8 +331,6 @@
   <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" revision="jb" />
   <project path="device/htc/saga" name="Andromadus/android_device_htc_saga" revision="jellybean" />
   <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" revision="jb" />
-  <project path="device/motorola/msm8960-common" name="Andromadus/android_device_motorola_msm8960-common" revision="jellybean" />
-  <project path="device/motorola/vanquish" name="Andromadus/android_device_motorola_vanquish" revision="jellybean" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" revision="jellybean" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" revision="jellybean" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" revision="jellybean" />
@@ -344,7 +343,6 @@
   <project path="kernel/hp/tenderloin" name="Andromadus/hp-kernel-tenderloin" revision="jellybean" />
   <project path="kernel/htc/KangBanged-7x30" name="KangBangKreations/KangBanged-7x30" revision="kb-stable" />
   <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" revision="andromadus" />
-  <project path="kernel/motorola/msm8960-common" name="Andromadus/android_kernel_motorola_msm8960-common" revision="jellybean" />
   <project path="packages/apps/Settings" name="Andromadus/android_packages_apps_Settings" revision="jellybean" />
   <project path="packages/providers/MediaProvider" name="Andromadus/android_packages_providers_MediaProvider" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" revision="jellybean" />
@@ -354,6 +352,5 @@
   <project path="vendor/htc/ace" name="Andromadus/proprietary_htc_ace" />
   <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" revision="master" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" revision="jb" />
-  <project path="vendor/motorola/vanquish" name="Andromadus/android_vendor_motorola_vanquish" />
   
 </manifest>
