@@ -333,7 +333,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   
-  <project path="device/motorola/msm8960-common" name="Andromadus/android_device_motorola_msm8960-common" revision="jellybean-stable" />
+  <project path="device/motorola/msm8960-common" name="Andromadus/android_device_motorola_msm8960-common" revision="jellybean-m" />
   <project path="device/motorola/vanquish" name="Andromadus/android_device_motorola_vanquish" revision="jellybean-stable" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" revision="jellybean-m" />
   <project path="kernel/motorola/msm8960-common" name="Andromadus/android_kernel_motorola_msm8960-common" revision="jb_chocolate" />
