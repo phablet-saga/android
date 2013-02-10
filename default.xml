@@ -236,7 +236,7 @@
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
-  <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" />
+  <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" revision="jellybean" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" />
