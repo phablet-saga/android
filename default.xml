@@ -208,7 +208,6 @@
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="gdk" name="platform/gdk" />
-  <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" />
