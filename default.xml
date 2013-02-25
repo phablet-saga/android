@@ -10,7 +10,7 @@
   <default revision="refs/heads/phablet-10.1"
            remote="phablet"
            sync-c="true"
-           sync-j="1" />
+           sync-j="4" />
 
   <project path="build" name="phablet-saga/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
