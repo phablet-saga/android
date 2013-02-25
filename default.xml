@@ -16,7 +16,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="phablet-saga/android" remote="github" />
+  <project path="android" name="phablet-saga/android" remote="github" revision="refs/heads/phablet-10.1" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
@@ -151,7 +151,7 @@
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="github" revision="Andro4.2" />
   <project path="hardware/qcom/media" name="phablet-saga/android_hardware_qcom_media" remote="github" revision="phablet-10.1" />
-  <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" remote="github" revision="andromadus" />
+  <project path="kernel/htc/msm7x30-3.0" name="phablet-saga/htc7x30-3.0" remote="github" revision="phablet-10.1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" remote="github" revision="jellybean" />
   <project path="ubuntu/assets" name="ubuntu/assets" revision="refs/heads/master" />
   <project path="ubuntu/uchroot" name="ubuntu/uchroot" revision="refs/heads/master" />
