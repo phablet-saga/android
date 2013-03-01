@@ -30,7 +30,6 @@
   <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" />
   <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
-  <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
 
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
@@ -143,14 +142,14 @@
   <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" remote="github" revision="jb4.2" />
   <project path="device/htc/common" name="phablet-saga/android_device_htc_common" remote="github" revision="jb" />
   <project path="device/htc/msm7x30-common" name="phablet-saga/android_device_htc_msm7x30-common" remote="github" revision="cm10.1" />
-  <project path="frameworks/av" name="Andromadus/android_frameworks_av" remote="github" revision="cm10.1" />
-  <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="github" revision="cm10.1" />
-  <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="github" revision="cm10.1" />
-  <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="github" revision="cm10.1" />
+  <project path="frameworks/av" name="Cyanogenmod/android_frameworks_av" />
+  <project path="frameworks/base" name="Cyanogenmod/android_frameworks_base" />
+  <project path="frameworks/native" name="Cyanogenmod/android_frameworks_native" />
+  <project path="hardware/libhardware" name="Cyanogenmod/android_hardware_libhardware" />
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" remote="github" revision="jellybean" />
-  <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="cm-10.1-caf" />
-  <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="github" revision="Andro4.2" />
-  <project path="hardware/qcom/media" name="phablet-saga/android_hardware_qcom_media" remote="github" revision="phablet-10.1" />
+  <project path="hardware/qcom/display" name="Cyanogenmod/android_hardware_qcom_display" />
+  <project path="hardware/qcom/audio" name="Cyanogenmod/android_hardware_qcom_audio" />
+  <project path="hardware/qcom/media" name="phablet-saga/android_hardware_qcom_media" />
   <project path="kernel/htc/msm7x30-3.0" name="phablet-saga/htc7x30-3.0" remote="github" revision="phablet-10.1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" remote="github" revision="jellybean" />
   <project path="ubuntu/assets" name="ubuntu/assets" revision="refs/heads/master" />
