@@ -147,7 +147,7 @@
   <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" remote="github" revision="jellybean" />
-  <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="cm-10.1-caf" />
+  <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="jellybean" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
   <project path="hardware/qcom/media" name="phablet-saga/android_hardware_qcom_media" remote="github" revision="phablet-10.1" />
   <project path="kernel/htc/msm7x30-3.0" name="phablet-saga/htc7x30-3.0" remote="github" revision="phablet-10.1" />
