@@ -144,7 +144,7 @@
   <project path="device/htc/msm7x30-common" name="phablet-saga/android_device_htc_msm7x30-common" remote="github" revision="cm10.1" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" />
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
+  <project path="frameworks/native" name="phablet-saga/android_frameworks_native" remote="github" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" remote="github" revision="jellybean" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="jb4.2" />
