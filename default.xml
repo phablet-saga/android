@@ -19,8 +19,7 @@
   <project path="android" name="phablet-saga/android" remote="github" revision="phablet-10.1" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
-  <project path="bionic" name="CyanogenMod/android_bionic" />
-  <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
+  <project path="bionic" name="phablet-saga/android_bionic"  remote="github" revision="phablet-10.1" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="development" name="CyanogenMod/android_development" />
